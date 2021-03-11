@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\POO-01-21\\TAREAS LAB\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj": {}
+    "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\CICLO 02\\PROGRAMACION ORIENTADA A OBJETOS\\GitREPO\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\POO-01-21\\TAREAS LAB\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj": {
+    "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\CICLO 02\\PROGRAMACION ORIENTADA A OBJETOS\\GitREPO\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\POO-01-21\\TAREAS LAB\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj",
+        "projectUniqueName": "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\CICLO 02\\PROGRAMACION ORIENTADA A OBJETOS\\GitREPO\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj",
         "projectName": "ProgramaLab01Clan",
-        "projectPath": "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\POO-01-21\\TAREAS LAB\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj",
+        "projectPath": "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\CICLO 02\\PROGRAMACION ORIENTADA A OBJETOS\\GitREPO\\ProgramaLab01Clan\\ProgramaLab01Clan.csproj",
         "packagesPath": "C:\\Users\\ajlh2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\POO-01-21\\TAREAS LAB\\ProgramaLab01Clan\\obj\\",
+        "outputPath": "C:\\Users\\ajlh2\\OneDrive\\Escritorio\\UCA\\CICLO 02\\PROGRAMACION ORIENTADA A OBJETOS\\GitREPO\\ProgramaLab01Clan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajlh2\\AppData\\Roaming\\NuGet\\NuGet.Config"
