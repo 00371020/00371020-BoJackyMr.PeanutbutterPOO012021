@@ -30,3 +30,19 @@ C:\Users\ajlh2\OneDrive\Escritorio\UCA\CICLO 02\PROGRAMACION ORIENTADA A OBJETOS
 C:\Users\ajlh2\OneDrive\Escritorio\UCA\CICLO 02\PROGRAMACION ORIENTADA A OBJETOS\GitREPO\ProgramaLab01Clan\obj\Debug\net5.0\ref\ProgramaLab01Clan.dll
 C:\Users\ajlh2\OneDrive\Escritorio\UCA\CICLO 02\PROGRAMACION ORIENTADA A OBJETOS\GitREPO\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.pdb
 C:\Users\ajlh2\OneDrive\Escritorio\UCA\CICLO 02\PROGRAMACION ORIENTADA A OBJETOS\GitREPO\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.exe
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.deps.json
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.runtimeconfig.dev.json
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.dll
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\bin\Debug\net5.0\ref\ProgramaLab01Clan.dll
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.pdb
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.dll
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ref\ProgramaLab01Clan.dll
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.pdb
+C:\Users\eduar\OneDrive\Documentos\Ingenieria Informatica\POO\Optative activity-Github 01\00371020-BoJackyMr.PeanutbutterPOO012021\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.genruntimeconfig.cache
