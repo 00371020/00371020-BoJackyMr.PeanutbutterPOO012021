@@ -1,0 +1,16 @@
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.exe
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.deps.json
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.runtimeconfig.json
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.runtimeconfig.dev.json
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.dll
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\bin\Debug\net5.0\ref\ProgramaLab01Clan.dll
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\bin\Debug\net5.0\ProgramaLab01Clan.pdb
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.csprojAssemblyReference.cache
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.AssemblyInfoInputs.cache
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.AssemblyInfo.cs
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.csproj.CoreCompileInputs.cache
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.dll
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ref\ProgramaLab01Clan.dll
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.pdb
+C:\Users\ajlh2\OneDrive\Escritorio\UCA\POO-01-21\TAREAS LAB\ProgramaLab01Clan\obj\Debug\net5.0\ProgramaLab01Clan.genruntimeconfig.cache

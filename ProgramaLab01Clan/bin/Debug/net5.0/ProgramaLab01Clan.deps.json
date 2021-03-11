@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProgramaLab01Clan/1.0.0": {
+        "runtime": {
+          "ProgramaLab01Clan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramaLab01Clan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
